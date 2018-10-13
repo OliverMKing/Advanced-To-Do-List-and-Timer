@@ -1,5 +1,5 @@
 # Advanced-To-Do-List-and-Timer
-Java graphical user interface application that keeps track of tasks and has a build-in timer. It is a NetBeans project.
+Java graphical user interface application that keeps track of tasks and has a build-in timer. It is a NetBeans project and uses [jsoup](https://jsoup.org/).
 
 ## Tasks
 Keeps track of tasks you have to do. You can add and remove tasks. 
